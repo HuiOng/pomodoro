@@ -1,4 +1,4 @@
-## Pomodoro
+# Pomodoro
 -Written with python
 
 -Tkinter used as GUI library 
@@ -7,6 +7,11 @@ This pomodoro increases your productivity by enabling you to work in 25 minutes 
 Once you achieve 4 25-min working cycle, you will be given your well deserved 20 minutes break!
 Isnt't that great?
 Try it out now 😁
+## How to try out the Pomodoro Timer?
+1. Install Python
+2. Download the main.py file and tomato.png into the same folder
+3. Hit RUN! 
+4. Enjoy~
 
 This is how it looks like when you Press the "Start" button:
 ![alt text](https://github.com/HuiOng/pomodoro/blob/master/2021-07-02.png)
