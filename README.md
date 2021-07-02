@@ -16,4 +16,5 @@ After each cycle, you will be given a 5 minutes break.
 
 The tick represents the number of cycles you've gone through.
 After 4 cycles of work, you will be granted a 20 minutes break!
+
 ![alt text](https://github.com/HuiOng/pomodoro/blob/master/2021-07-02%20(2).png)
